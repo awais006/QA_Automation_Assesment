@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CURAHealthServices_QAAutomation/DesignTimeBuild
+/.vs/CURAHealthServices_QAAutomation/FileContentIndex
+/.vs/CURAHealthServices_QAAutomation/v17/TestStore/0
+/.vs
+/bin/Debug/net6.0
+/obj
